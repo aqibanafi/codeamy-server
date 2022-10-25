@@ -1,6 +1,6 @@
 [
     {
-        "id":"01110001",
+        "_id":"01110001",
         "category_id":"01",
         "title": "React - The Complete Guide (incl Hooks, React Router, Redux)",
         "detail": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!",
@@ -17,6 +17,10 @@
         "video_length": "49",
         "article_number": "142",
         "certificate": "Yes",
+        "language": "English",
+        "sections": "101",
+        "lectures": "60",
+        "total_length": "64h 2m",
         "content": [
             "What is React JS?",
             "Javascript Refresher",
@@ -33,7 +37,7 @@
         ]
     },
     {
-        "id":"02220001",
+        "_id":"02220001",
         "category_id":"02",
         "title": "PHP for Beginners - Become a PHP Master - CMS Project",
         "detail": "PHP for Beginners: learn everything you need to become a professional PHP developer with practical exercises & projects.",
@@ -50,6 +54,10 @@
         "video_length": "37",
         "article_number": "55",
         "certificate": "Yes",
+        "language": "English",
+        "sections": "40",
+        "lectures": "70",
+        "total_length": "12h 2m",
         "content": [
             "Local Development Environment Tools",
             "Embedding PHP in HTML",
@@ -67,7 +75,7 @@
         ]
     },
     {
-        "id":"03330001",
+        "_id":"03330001",
         "category_id":"03",
         "title": "Angular - The Complete Guide (2022 Edition)",
         "detail": "Master Angular 13 (formerly Angular 2) and build awesome, reactive web apps with the successor of Angular.js",
@@ -84,6 +92,10 @@
         "video_length": "34.5",
         "article_number": "194",
         "certificate": "Yes",
+        "language": "English",
+        "sections": "23",
+        "lectures": "70",
+        "total_length": "6h 10m",
         "content": [
             "Angular vs Angular 2 vs Latest Angular Version",
             "Alternative Non-Collapsable Navigation Bar",
@@ -101,7 +113,7 @@
         ]
     },
     {
-        "id":"04440001",
+        "_id":"04440001",
         "category_id":"04",
         "title": "MongoDB - The Complete Developer's Guide 2022",
         "detail": "Master MongoDB Development for Web & Mobile Apps. CRUD Operations, Indexes, Aggregation Framework - All about MongoDB!",
@@ -118,6 +130,10 @@
         "video_length": "17.5",
         "article_number": "77",
         "certificate": "Yes",
+        "language": "English",
+        "sections": "55",
+        "lectures": "74",
+        "total_length": "30h 2m",
         "content": [
             "What is MongoDB?",
             "Understanding Databases, Collections & Documents",
@@ -135,7 +151,7 @@
         ]
     },
     {
-        "id":"05550001",
+        "_id":"05550001",
         "category_id":"05",
         "title": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
         "detail": "Master Node JS & Deno.js, build REST APIs with Node.js, GraphQL APIs, add Authentication, use MongoDB, SQL & much more!",
@@ -152,6 +168,10 @@
         "video_length": "40.5",
         "article_number": "562",
         "certificate": "Yes",
+        "language": "English",
+        "sections": "16",
+        "lectures": "29",
+        "total_length": "7h 20m",
         "content": [
             "Install NodeJS and Creating First App?",
             "Working with Objects, Properties & Methods",
@@ -169,7 +189,7 @@
         ]
     },
     {
-        "id":"06660001",
+        "_id":"06660001",
         "category_id":"06",
         "title": "Build Responsive Real-World Websites with HTML and CSS",
         "detail": "Learn modern HTML5, CSS3 and web design by building a stunning website for your portfolio! Includes flexbox and CSS Grid",
@@ -186,6 +206,10 @@
         "video_length": "37.5",
         "article_number": "20",
         "certificate": "Yes",
+        "language": "English",
+        "sections": "62",
+        "lectures": "90",
+        "total_length": "22h 36m",
         "content": [
             "A High-Level Overview of Web Development",
             "A Note on Semantic HTML",
@@ -203,7 +227,7 @@
         ]
     },
     {
-        "id":"01110002",
+        "_id":"01110002",
         "category_id":"01",
         "title": "Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)",
         "detail": "Updated! Become a Senior React Developer. Build a massive E-commerce app with Redux, Hooks, GraphQL, Stripe, Firebase",
@@ -220,6 +244,10 @@
         "video_length": "39",
         "article_number": "76",
         "certificate": "Yes",
+        "language": "English",
+        "sections": "155",
+        "lectures": "88",
+        "total_length": "37h 40m",
         "content": [
             "React Concepts",
             "Javascript Refresher",
@@ -236,7 +264,7 @@
         ]
     },
     {
-        "id":"02220002",
+        "_id":"02220002",
         "category_id":"02",
         "title": "The Complete 2021 PHP Full Stack Web Developer Bootcamp",
         "detail": "Learn to build websites with HTML , CSS , JAVASCRIPT , Bootstrap , PHP , MySQL , WordPress , OOP & more!",
@@ -253,6 +281,10 @@
         "video_length": "48.5",
         "article_number": "85",
         "certificate": "Yes",
+        "language": "English",
+        "sections": "30",
+        "lectures": "60",
+        "total_length": "11h 25m",
         "content": [
             "Local Development Environment Tools",
             "Embedding PHP in HTML",
@@ -272,7 +304,7 @@
         ]
     },
     {
-        "id":"03330002",
+        "_id":"03330002",
         "category_id":"03",
         "title": "The Modern Angular Bootcamp",
         "detail": "Get job ready with Angular! Understand how to build and deploy production-ready apps.",
@@ -289,6 +321,10 @@
         "video_length": "45.5",
         "article_number": "307",
         "certificate": "Yes",
+        "language": "English",
+        "sections": "20",
+        "lectures": "49",
+        "total_length": "16h 20m",
         "content": [
             "Angular vs Angular 2 vs Latest Angular Version",
             "Alternative Non-Collapsable Navigation Bar",
@@ -309,7 +345,7 @@
         ]
     },
     {
-        "id":"04440002",
+        "_id":"04440002",
         "category_id":"04",
         "title": "Complete MongoDB Administration Guide",
         "detail": "Master MongoDB database using JavaScript Mongo Shell, Robo 3T (Robomongo) and MongoDB Compass",
@@ -326,6 +362,10 @@
         "video_length": "10",
         "article_number": "44",
         "certificate": "Yes",
+        "language": "English",
+        "sections": "77",
+        "lectures": "14",
+        "total_length": "19h 12m",
         "content": [
             "What is MongoDB?",
             "Understanding Databases, Collections & Documents",
@@ -349,7 +389,7 @@
         ]
     },
     {
-        "id":"05550002",
+        "_id":"05550002",
         "category_id":"05",
         "title": "NodeJS Tutorial and Projects Course",
         "detail": "Learn Node.js by building real-world applications with Node JS, Express, MongoDB.",
@@ -366,6 +406,10 @@
         "video_length": "34",
         "article_number": "5",
         "certificate": "Yes",
+        "language": "English",
+        "sections": "10",
+        "lectures": "30",
+        "total_length": "22h 4m",
         "content": [
             "Install NodeJS and Creating First App?",
             "Working with Objects, Properties & Methods",
@@ -390,7 +434,7 @@
         ]
     },
     {
-        "id":"06660002",
+        "_id":"06660002",
         "category_id":"06",
         "title": "HTML&CSS Tutorial and Projects Course 2022 (Flexbox&Grid)",
         "detail": "Web Development for absolute beginners.Learn HTML5 and CSS3 from scratch by building 20+ amazing real world projects.",
@@ -407,6 +451,10 @@
         "video_length": "40",
         "article_number": "286",
         "certificate": "Yes",
+        "language": "English",
+        "sections": "33",
+        "lectures": "60",
+        "total_length": "27h 2m",
         "content": [
             "A High-Level Overview of Web Development",
             "A Note on Semantic HTML",

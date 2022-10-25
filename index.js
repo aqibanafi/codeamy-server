@@ -18,19 +18,24 @@ app.get('/courses-categories', (req, res) => {
 
 app.get('/category/:id', (req, res) => {
     const id = req.params.id;
-        const category_courses = courses.filter(course => course.category_id === id);
-        res.send(category_courses);
+    const categoryCourses = courses.filter(course => course.category_id === id);
+    res.send(categoryCourses);
 })
 
-app.get('/courses', (req, res) =>{
+app.get('/courses', (req, res) => {
     res.send(courses);
 });
 
-app.get('/courses/:id', (req, res) => {
-    const id = req.params.id;
-    const selectedCourse = courses.find(course => course._id === id);
-    res.send(selectedCourse);
-});
+app.get('/course/:id', (req, res) => {
+    const id = (req.params.id);
+    const selectedCourse = courses.find(course => course._id === id)
+    res.send(selectedCourse)
+})
+
+app.get('/latest-course/', (req, res) => {
+    const selectedCourse = courses.filter(course => course.rating === '4.9')
+    res.send(selectedCourse)
+})
 
 app.listen(port, () => {
     console.log('Codeamy Server running on port', port);

@@ -1,26 +1,32 @@
 [
     {
         "id": "01",
-        "name": "React"
+        "name": "React",
+        "image": "https://i.ibb.co/VtDmSZG/react.png"
     },
     {
         "id": "02",
-        "name": "PHP"
+        "name": "PHP",
+        "image": "https://i.ibb.co/rcwd9V9/php.png"
     },
     {
         "id": "03",
-        "name": "Angular"
+        "name": "Angular",
+        "image": "https://i.ibb.co/wpYNTt0/angular.png"
     },
     {
         "id": "04",
-        "name": "Mongodb"
+        "name": "Mongodb",
+        "image": "https://i.ibb.co/QCn7FDC/database.png"
     },
     {
         "id": "05",
-        "name": "Nodejs"
+        "name": "Nodejs",
+        "image": "https://i.ibb.co/j45g1Yh/node-js.png"
     },
     {
         "id": "06",
-        "name": "Html"
+        "name": "Html",
+        "image": "https://i.ibb.co/kBtvC8x/html.png"
     }
 ]

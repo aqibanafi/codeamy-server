@@ -33,7 +33,7 @@ app.get('/course/:id', (req, res) => {
 })
 
 app.get('/latest-course/', (req, res) => {
-    const selectedCourse = courses.filter(course => course.rating === '4.9')
+    const selectedCourse = courses.filter(course => course.rating === '5.00')
     res.send(selectedCourse)
 })
 

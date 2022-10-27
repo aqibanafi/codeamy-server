@@ -5,8 +5,8 @@ const port = process.env.PORT || 5000;
 
 app.use(cors());
 
-const categories = require('./data/categories.json');
-const courses = require('./data/courses.json');
+const categories = require('./Data/categories.json');
+const courses = require('./Data/courses.json');
 
 app.get('/', (req, res) => {
     res.send('Codeamy is Running');
@@ -40,3 +40,5 @@ app.get('/latest-course/', (req, res) => {
 app.listen(port, () => {
     console.log('Codeamy Server running on port', port);
 })
+
+module.exports = app;
